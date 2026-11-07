@@ -17,9 +17,9 @@ document.addEventListener("DOMContentLoaded", function () {
   const routeStops = [
     {
       day: "Day 1 (Dec 06)",
-      title: "Dambulla",
+      title: "Dambulla & Sigiriya",
       coords: [7.8567, 80.6492],
-      desc: "Dambulla Cave Temple and Golden Buddha Statue, then on to Sigiriya."
+      desc: "Airport meet & greet with your private chauffeur, Dambulla Cave Temple and Golden Buddha Statue, then on to Sigiriya."
     },
     {
       day: "Days 2 – 3 (Dec 07 – 08)",
@@ -61,7 +61,7 @@ document.addEventListener("DOMContentLoaded", function () {
       day: "Days 12 – 14 (Dec 17 – 19)",
       title: "Colombo & Departure",
       coords: [6.9271, 79.8612],
-      desc: "Sea turtle hatchery and Madu River boat safari en route from Galle, Colombo city tour and departure airport transfer."
+      desc: "Drive from Galle and a relaxing day at leisure, followed by the Colombo city tour and departure airport transfer."
     }
   ];
 
