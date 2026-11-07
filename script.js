@@ -16,52 +16,58 @@ document.addEventListener("DOMContentLoaded", function () {
   // Route pins matching the exact 14-day itinerary
   const routeStops = [
     {
-      day: "Day 1 (Dec 06)",
-      title: "Dambulla & Sigiriya",
-      coords: [7.8567, 80.6492],
-      desc: "Airport meet & greet with your private chauffeur, Dambulla Cave Temple and Golden Buddha Statue, then on to Sigiriya."
+      day: "Day 1 (Jan 05)",
+      title: "Negombo",
+      coords: [7.2083, 79.8358],
+      desc: "Airport pick-up at 10:50 PM by your private chauffeur and private transfer to your hotel in Negombo."
     },
     {
-      day: "Days 2 – 3 (Dec 07 – 08)",
+      day: "Day 2 (Jan 06)",
+      title: "Dambulla & Sigiriya",
+      coords: [7.8567, 80.6492],
+      desc: "Dambulla Cave Temple and Golden Buddha Statue, then on to Sigiriya."
+    },
+    {
+      day: "Days 3 – 4 (Jan 07 – 08)",
       title: "Habarana, Sigiriya & Polonnaruwa",
       coords: [8.0339, 80.7533],
       desc: "Habarana elephant safari, optional traditional Ayurvedic massage, Sigiriya Rock Fortress & Polonnaruwa Ancient City."
     },
     {
-      day: "Days 4 – 5 (Dec 09 – 10)",
+      day: "Days 5 – 6 (Jan 09 – 10)",
       title: "Kandy",
       coords: [7.2906, 80.6337],
       desc: "Matale Spice Garden, Temple of the Tooth Relic & Peradeniya Royal Botanical Gardens."
     },
     {
-      day: "Day 6 (Dec 11)",
+      day: "Day 7 (Jan 11)",
       title: "Nuwara Eliya",
       coords: [6.9497, 80.7891],
       desc: "Scenic drive via tea factory, tea plantation & Ramboda Waterfalls."
     },
     {
-      day: "Days 7 – 8 (Dec 12 – 13)",
+      day: "Days 8 – 9 (Jan 12 – 13)",
       title: "Ella",
       coords: [6.8667, 81.0467],
       desc: "Horton Plains National Park, scenic train ride from Nuwara Eliya, Little Adam's Peak & Nine Arch Bridge."
     },
     {
-      day: "Days 9 – 10 (Dec 14 – 15)",
+      day: "Days 10 – 11 (Jan 14 – 15)",
       title: "Yala",
       coords: [6.3117, 81.3433],
       desc: "Travel from Ella via Ravana Falls to Yala, followed by an early morning Yala National Park safari."
     },
     {
-      day: "Day 11 (Dec 16)",
+      day: "Day 12 (Jan 16)",
       title: "Galle",
       coords: [6.0535, 80.2210],
       desc: "A day of snorkelling along the southern coast."
     },
     {
-      day: "Days 12 – 14 (Dec 17 – 19)",
+      day: "Days 13 – 14 (Jan 17 – 18)",
       title: "Colombo & Departure",
       coords: [6.9271, 79.8612],
-      desc: "Drive from Galle and a relaxing day at leisure, followed by the Colombo city tour and departure airport transfer."
+      desc: "Drive from Galle and a relaxing day at leisure, followed by the Colombo city tour and a private airport transfer on the night of 18th January."
     }
   ];
 
